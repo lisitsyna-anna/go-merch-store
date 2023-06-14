@@ -36,8 +36,8 @@ The GoMerch Store website was built using the following technologies:
 
 To run the GoMerch Store website locally, follow these steps:
 
-1. Clone the repository: git clone
-   `https://github.com/lisitsyna-anna/go-merch-store`
+1. Clone the repository:
+   `git clone https://github.com/lisitsyna-anna/go-merch-store`
 2. Navigate to the project directory: `cd go-merch-store`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
