@@ -7,7 +7,7 @@ import 'modern-normalize';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/app-with-routing">
+    <BrowserRouter basename="/go-merch-store">
       <App />
     </BrowserRouter>
   </React.StrictMode>
