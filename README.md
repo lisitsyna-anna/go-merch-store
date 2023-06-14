@@ -1,10 +1,10 @@
 # 💻 GoMerch Store
 
-GoMerch Store is a simple website designed to introduce users to the GoMerch
-Store and its products. The website provides information about the store and
-allows users to explore the available merchandise. It follows a single-page
-application (SPA) architecture and consists of three main pages: Home, About,
-and Products.
+[GoMerch Store ](https://lisitsyna-anna.github.io/go-merch-store/)is a simple
+website designed to introduce users to the GoMerch Store and its products. The
+website provides information about the store and allows users to explore the
+available merchandise. It follows a single-page application (SPA) architecture
+and consists of three main pages: Home, About, and Products.
 
 ## Routes
 
